@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # nestjs-login
 
 ## simple login and auth API in NestJS
@@ -11,6 +10,3 @@ npm install --save-dev @types/passport-local
 npm install --save @nestjs/jwt passport-jwt 
 npm install --save-dev @types/passport-jwt 
 ```
-=======
-
->>>>>>> 9223653da9e2f65a1ac8b5cd5210ca43fd06e295
