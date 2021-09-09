@@ -11,7 +11,7 @@ npm install --save @nestjs/jwt passport-jwt
 npm install --save-dev @types/passport-jwt 
 ```
 
-## POST Login command (usingg curl)
+## POST Login command (using curl)
 
 ```
 curl -X POST http://localhost:3000/auth/login -d "{\"username\": \"ahmed\", \"password\": \"blahblah\"}" -H "Content-Type: application/json" 
